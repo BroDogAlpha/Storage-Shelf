@@ -1,0 +1,50 @@
+// Format
+pushlist 'pagebutton'
+pushlist 'itembutton'
+pushlist 'increasebutton'
+pushlist 'decreasebutton'
+pushlist 'materialbutton'
+pushlist 'type'
+pushlist 'material'
+pushlist 'amount'
+
+
+// 10 heal potions
+pushlist 'pagebutton' '20'
+pushlist 'itembutton' '200'
+pushlist 'increasebutton' '215'
+pushlist 'decreasebutton' '230'
+pushlist 'materialbutton' '999'
+pushlist 'type' 'Yellow Potion'
+pushlist 'material' '0'
+pushlist 'amount' 'Yellow Potion'
+
+//10 Cure potions
+pushlist 'pagebutton' '20'
+pushlist 'itembutton' '201'
+pushlist 'increasebutton' '216'
+pushlist 'decreasebutton' '231'
+pushlist 'materialbutton' '999'
+pushlist 'type' 'Orange Potion'
+pushlist 'material' '0'
+pushlist 'amount' 'Orange Potion'
+
+//10 Stamina potions
+pushlist 'pagebutton' '20'
+pushlist 'itembutton' '202'
+pushlist 'increasebutton' '217'
+pushlist 'decreasebutton' '232'
+pushlist 'materialbutton' '999'
+pushlist 'type' 'Red Potion'
+pushlist 'material' '0'
+pushlist 'amount' 'Red Potion'
+
+//2 avarite viking sword
+pushlist 'pagebutton' '23'
+pushlist 'itembutton' '105'
+pushlist 'increasebutton' '120'
+pushlist 'decreasebutton' '135'
+pushlist 'materialbutton' '11'
+pushlist 'type' 'viking sword'
+pushlist 'material' '1763' 
+pushlist 'amount' 'viking sword'
