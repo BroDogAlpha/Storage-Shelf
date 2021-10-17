@@ -1,0 +1,9 @@
+// Page 1 item 1
+'pushlist' 'pagebutton' 
+'pushlist' 'itembutton' 
+'pushlist' 'increasebutton' 
+'pushlist' 'decreasebutton' 
+'pushlist' 'materialbutton' 
+'pushlist' 'type' 
+'pushlist' 'material' 
+'pushlist' 'amount' 
